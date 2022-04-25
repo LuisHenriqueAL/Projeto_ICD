@@ -1,6 +1,6 @@
 # Projeto_ICD
 
-Grupo: Luís Henrique Augusto de Lima
+Grupo: Luís Henrique Augusto de Lima; Rafael Barboza
 
 DataSet: TED TALKS
 Disponível no link: https://www.kaggle.com/datasets/ashishjangra27/ted-talks
