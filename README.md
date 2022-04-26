@@ -1,5 +1,7 @@
 # Projeto_ICD
 
+Esse projeto foi desenvolvido para a disciplina de Introdução à Ciência de Dados do curso de Ciência de Dados e Inteligencia Artificial da Universidade Federal da Paraiba.
+
 DataSet: TED TALKS
 Disponível no link: https://www.kaggle.com/datasets/ashishjangra27/ted-talks
 
