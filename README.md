@@ -11,3 +11,7 @@ Perguntas que podem ser respondidas com o DataSet:
 - Qual o(a) palestrante mais famoso (de acordo com número de likes)?
 - Qual o ano em que houve mais TED Talks lançados?
 - Qual palestrante tem mais TED Talks?
+
+## Participaram desse projeto: 
+
+https://github.com/RBzada
